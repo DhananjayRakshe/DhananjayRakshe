@@ -1,4 +1,4 @@
-👋 Hi, I’m Dhananjay Rakshe , currently working as React Developer at Inteliyo Technologies
+👋 Hi, I’m Dhananjay Rakshe , currently working as React Developer
 👀 I’m interested in Web Development & Creating Open Source Projects.
 🌱 I’m currently learning web 3.0 and Metaverse
 💞️ I’m looking to create awesome open source projects in PHP & React.js
